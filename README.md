@@ -28,6 +28,7 @@ for this purpose.
 ### Output:
 <img width="1285" height="368" alt="Screenshot 2026-01-31 100505" src="https://github.com/user-attachments/assets/ef4876e0-9b28-41bd-9a6f-777e4f091132" />
 <img width="1286" height="272" alt="Screenshot 2026-01-31 100518" src="https://github.com/user-attachments/assets/d5c6e471-75c5-4a4e-80ef-a7d7d46d6939" />
+<img width="1383" height="719" alt="Screenshot 2026-01-31 100539" src="https://github.com/user-attachments/assets/d4c24676-9bd2-4aa8-b13d-36a3e5ecef1a" />
 
 ### Result:
-<img width="1383" height="719" alt="Screenshot 2026-01-31 100539" src="https://github.com/user-attachments/assets/d4c24676-9bd2-4aa8-b13d-36a3e5ecef1a" />
+Thus,preprocessing technique is implemented on twitter dataset.
